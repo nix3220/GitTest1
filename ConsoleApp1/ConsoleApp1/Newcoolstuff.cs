@@ -11,6 +11,8 @@ namespace ConsoleApp1
         public void Cool()
         {
             //Do Cool Stuff Here
+            
+            //Cool stuff done in GitHub
         }
     }
 }
